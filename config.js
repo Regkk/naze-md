@@ -34,10 +34,10 @@ global.sp = ''
 // Setting Mess
 global.mess = {
     success: '✅Done',
-    admin: 'Fitur Khusus Admin Group!',
+    admin: 'Make me Admin Group!',
     botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
     premime: 'Fitur Khusus Premium Kalo Mau Daftar Ketik Sewa / Chat Owner',
-    owner: 'Fitur Khusus Owner Bot',
+    owner: 'Sorry it can only be used by Owner',
     group: 'Fitur Digunakan Hanya Untuk Group!',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
@@ -65,9 +65,9 @@ global.myytv = 'https://youtu.be/FAsL-Jy4qLc'
 global.mygc = "https://chat.whatsapp.com/Cp1OJenk6Q9D9vgLjLU558"
 
 // Engak Ngaruh, Belum Kepasang
-global.botname = 'NAZE BOT'
-global.akulaku = 'Bot By Naze'
-global.ytname = 'YT NAZE' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
+global.botname = 'Ken_kaneki'
+global.akulaku = 'Bot By Ken'
+global.ytname = 'Ůhm modding pro'
 
 
 let file = require.resolve(__filename)
